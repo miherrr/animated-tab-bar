@@ -262,7 +262,7 @@ open class RAMAnimatedTabBarController: UITabBarController {
 
     open override func viewDidLoad() {
         super.viewDidLoad()
-        initializeContainers()
+//        initializeContainers()
     }
 
     fileprivate func initializeContainers() {
