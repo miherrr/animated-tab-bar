@@ -238,7 +238,7 @@ open class RAMAnimatedTabBarController: UITabBarController {
     
     open override var viewControllers: [UIViewController]? {
         didSet {
-            initializeContainers()
+//            initializeContainers()
         }
     }
     
